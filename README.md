@@ -1,1 +1,2 @@
-# semantic-search-task2-LSP2431549
+# Image-classification-task1-LSP2431549 
+# semantic-search-task2-LSP2431549 link: https://colab.research.google.com/drive/1JvQCAIfsFB8xpaQabugtYNpPsrDcDX9d?authuser=1
